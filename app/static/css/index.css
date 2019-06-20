@@ -1,0 +1,11 @@
+h3 {
+    color: greenyellow;
+    font-style: italic; 
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    background: rgb(27, 25, 25);
+
+}
